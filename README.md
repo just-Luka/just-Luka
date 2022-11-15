@@ -1,6 +1,6 @@
 ### Hello, Friend 👋
 
- - 🚀 Mobile Engineer
+ - 🚀 Software Engineer
  - 📫 How to reach me: [info.tsiklauri@gmail.com](mailto:info.tsiklauri@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
  - ☝️ Open to Remote/Relocate
  - 💡 To get readme like this, create a repository with a name that matches your GitHub username.
