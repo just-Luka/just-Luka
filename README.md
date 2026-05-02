@@ -10,7 +10,7 @@ Starting with competitive programming, I quickly transitioned into PHP and gaine
  - 🌍 I'm based in Georgia
  - 📫 How to reach me: [info.tsiklauri@gmail.com](mailto:info.tsiklauri@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
  - ☝️ Open to Remote/Relocate/B2B
- - 🧠 I'm learning Designing Data-Intensive Applications
+ - 🧠 I'm Designing Production Ready Applications
  - 💬 Communication: English, German, Russian, Georgian
 
 <!-- <div align="left">
