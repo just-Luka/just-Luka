@@ -1,15 +1,15 @@
 Hello! I am Luka ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =============================================================================================================================================
 
-Fullstack developer and accessibility enthusiast
+Fullstack developer | Collaborator | Fintech
 ----------------------------------------------------
 
-Starting with competitive programming, I quickly transitioned into PHP and gained experience with Laravel and Symfony.
+Starting with competitive programming, I quickly transitioned into business and gained experience with high load pro enterprise applications.
 
 
  - 🌍 I'm based in Georgia
  - 📫 How to reach me: [info.tsiklauri@gmail.com](mailto:info.tsiklauri@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
- - ☝️ Open to Remote/Relocate/B2B
+ - ☝️ Open to Remote/B2B
  - 🧠 I'm designing production ready Applications
  - 💬 Communication: English, German, Russian, Georgian
 
